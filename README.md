@@ -1,8 +1,7 @@
 # Metro-MessageBox
 <img width="1280" height="720" alt="Windows 10 x64-2026-03-13-22-05-17" src="https://github.com/user-attachments/assets/3958e9b4-ffbf-4299-9811-090f1e87e758" />
-一个高仿 Windows 10 MetroAPP 样式的全屏弹窗模板代码！
 这是一个代码模板，能够实现类似如上弹窗的C++原生WinAPI代码，无任何WinRT成分。
-> 参考项目：[作者的视频](https://www.bilibili.com/video/BV1x5vaejEjK/?vd_source=5c91ef3825144886aa14c05d602e2101)
+> 参考项目： [视频](https://www.bilibili.com/video/BV1x5vaejEjK/?vd_source=5c91ef3825144886aa14c05d602e2101/)
 > 挺可惜的，这位创作者已经注销账号。我使用他的弹窗样式进行修改和优化，没有使用他的代码。
 
 ****
